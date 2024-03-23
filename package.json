@@ -1,0 +1,23 @@
+{
+  "name": "ts-tdl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuqiulee/TS-TDL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuqiulee/TS-TDL/issues"
+  },
+  "homepage": "https://github.com/wuqiulee/TS-TDL#readme",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}
